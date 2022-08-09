@@ -11,7 +11,7 @@ export default class App extends Component {
       <>
         <Header/>
         <Main/>
-        <Footer src='./Images/My_Pic.jpg'/>
+        <Footer/>
       </>
     )
   }
